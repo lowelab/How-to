@@ -1,0 +1,11 @@
+Setting up the computer:
+Mac or Linux VP
+
+In your home directory, create folders called "scripts" and "programs". Set up PATH so your computer will know to look in these directories for programs and executable files.
+
+cd ~
+mkdir scripts
+mkdir programs
+
+nano .bash_profile
+
